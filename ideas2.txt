@@ -1,0 +1,23 @@
+﻿A) TECHNOLOGY MAVEN
+1. Problem Statement: Is it possible to profile the rise of a technology from the ivory tower to the board room by tracking its mentions in academic literature, popular media, startup funding, and job postings?
+2. My Audience would be recruiters for companies seeking an edge in hiring the first round of experts in a given piece of technology. Also, my audience can include job-seekers or technolgoy enthusiasts looking to explore the next big thing.
+3. Success Metric: Can I successfully integrate multiple sources of data and run time series analysis on them?
+4. Data Source: APIs from academic journals, CSVs of job postings, maybe scraping crunch base. Various sources for popular tech blogs/publications. The first and second are straightforward to munge with python, the last two may involve using Beautiful Soup.
+5. Potential Challenges include missing data, or general trends in the gross amount of media skewing the profile for how popular a particular topic is
+6. It is a bit ambitious, but I have gotten started on collecting data and integrating some data source pipelines.
+
+B) BRAIN HACKING
+1. Can time series analysis of EEG be used to predict various mental states? (sleep, meditation, etc.)
+2. My audience would be bio-tech enthusiasts looking for a usable algorithm to apply to their headshts
+3. Success Metric: My accuracy of classification, successfully dealing with noise
+4. Data Source: Mainly CSVs from Academic Institutions or Kaggle. Actually getting an EEG headset would be cool, but unlikely
+5. Challenges: Very noisy data, could I get it to work with streaming?
+6. This project seems maybe a bit simple, as it is just a time series analysis with well-known algorithms
+
+C) GENETIC
+1. How effective can genetic data be in predicting phenotypical traits (such as mental disorder predisposition)?
+2. My audience would be people interested in genetics, as well as data scientists and bio-informaticians
+3. Success Metric: Incorporating multiple phenotypic traits into a genome-based predictive model
+4. I would use https://discover.repositive.io/ for datasets and guidance about how to analyze them.
+5. Challenges: Lots of data, noisy, potentially cumbersome for doing real data analysis.
+6. This project is definitely ambitious, but it is really interesting. 
